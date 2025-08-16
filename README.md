@@ -8,12 +8,12 @@ Each exercise focuses on **context management** using `RunContextWrapper`, `func
 ## 📂 Project Structure  
 
 📁 project-root
-┣ 📄 connection.py # API connection setup
-┣ 📄 bank_account.py # Exercise 01: Bank Account Context
-┣ 📄 student_profile.py # Exercise 02: Student Profile Context
-┣ 📄 library_book.py # Exercise 03: Library Book Context
-┣ 📄 .env # Environment variables (Gemini API Key)
-┗ 📄 README.md # Documentation
+- ┣ 📄 connection.py # API connection setup
+- ┣ 📄 bank_account.py # Exercise 01: Bank Account Context
+- ┣ 📄 student_profile.py # Exercise 02: Student Profile Context
+- ┣ 📄 library_book.py # Exercise 03: Library Book Context
+- ┣ 📄 .env # Environment variables (Gemini API Key)
+- ┗ 📄 README.md # Documentation
 
 ---
 
@@ -101,3 +101,4 @@ uv run bank_account.py
 
 ## ✍️ Created By  
 👩‍💻 **Rahat Bano**  
+
